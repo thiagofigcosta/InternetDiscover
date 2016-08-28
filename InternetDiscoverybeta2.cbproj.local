@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/01/21 11:59:37.000.545,=C:\Users\ticotico\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2012/01/21 11:59:37.000.520,=C:\Users\ticotico\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>2012/01/21 12:01:10.000.642,C:\Users\ticotico\Documents\RAD Studio\Projects\Unit1.h=C:\Users\ticotico\Desktop\Navegador\InternetDiscovery.h</Transaction>
+    <Transaction>2012/01/21 12:01:10.000.642,C:\Users\ticotico\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ticotico\Desktop\Navegador\InternetDiscovery.dfm</Transaction>
+    <Transaction>2012/01/21 12:01:10.000.642,C:\Users\ticotico\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\ticotico\Desktop\Navegador\InternetDiscovery.cpp</Transaction>
+    <Transaction>2012/01/21 12:01:17.000.329,C:\Users\ticotico\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\ticotico\Desktop\Navegador\InternetDiscoverybeta2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
